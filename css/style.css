@@ -210,6 +210,21 @@ main div img {
   width: 40vh;
 }
 
+div {
+  margin: 0 5%;
+}
+div main {
+  margin: 0 5%;
+}
+div main div {
+  border-radius: 25px;
+  background-color: rgba(250, 235, 215, 0.578);
+  margin: 5% 15%;
+}
+div main div img {
+  border-radius: 25px;
+}
+
 form {
   margin: 0 5%;
 }
